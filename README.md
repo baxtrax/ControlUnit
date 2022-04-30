@@ -15,7 +15,7 @@ The Datapath Module is composed of one main file, datapath.v. This module has it
 #### Testing and Verification
 ##### Testing ControlUnit Module (The expected result)
 A simple program was made to test the instruction decoding
-![alt text](https://github.com/baxtrax/ControlUnit/blob/main/Images/Lab9SimExpected.png?raw=true)
+![alt text](https://github.com/baxtrax/ControlUnit/blob/main/Images/Lab9SimExpect.png?raw=true)
 ##### Testing ControlUnit Module (Result)
 ![alt text](https://github.com/baxtrax/ControlUnit/blob/main/Images/Lab9Sim.png?raw=true)
 
