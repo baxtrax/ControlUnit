@@ -5,7 +5,7 @@ Implements a RISC-V based Control Unit that is used alongside a datapath to crea
 ### The Top Level 0 Diagram
 A overview diagram of the Control Unit Module and its inputs and outputs.
 
-![alt text](https://github.com/baxtrax/RISCV-Datapath/blob/main/Images/Datapath-Level0.png?raw=true)
+![alt text](https://github.com/baxtrax/ControlUnit/blob/main/Images/Lab9Level0.png?raw=true)
 
 All of these inputs and outputs will be connected to a Datapath that will manipulate the data as needed by the instruction specified.
 
