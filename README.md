@@ -15,9 +15,9 @@ The Datapath Module is composed of one main file, datapath.v. This module has it
 #### Testing and Verification
 ##### Testing ControlUnit Module (The expected result)
 A simple program was made to test the instruction decoding
-![alt text](https://github.com/baxtrax/RISCV-Datapath/blob/main/Images/Instr.png?raw=true)
+![alt text](https://github.com/baxtrax/ControlUnit/blob/main/Images/Lab9SimExpected.png?raw=true)
 ##### Testing ControlUnit Module (Result)
-![alt text](https://github.com/baxtrax/RISCV-Datapath/blob/main/Images/Loop1.png?raw=true)
+![alt text](https://github.com/baxtrax/ControlUnit/blob/main/Images/Lab9Sim.png?raw=true)
 
 The Control Unit Module has a testbench included if you would want to verify these results.
 
